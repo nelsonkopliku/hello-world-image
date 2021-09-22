@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo 
+echo Hello Ruben and Nelson
